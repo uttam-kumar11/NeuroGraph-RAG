@@ -1,0 +1,322 @@
+Disease,Symptom,relationship
+fungal infection,itching,HAS_SYMPTOM
+fungal infection,skin_rash,HAS_SYMPTOM
+fungal infection,nodal_skin_eruptions,HAS_SYMPTOM
+fungal infection,dischromic _patches,HAS_SYMPTOM
+allergy,continuous_sneezing,HAS_SYMPTOM
+allergy,shivering,HAS_SYMPTOM
+allergy,chills,HAS_SYMPTOM
+allergy,watering_from_eyes,HAS_SYMPTOM
+gerd,stomach_pain,HAS_SYMPTOM
+gerd,acidity,HAS_SYMPTOM
+gerd,ulcers_on_tongue,HAS_SYMPTOM
+gerd,vomiting,HAS_SYMPTOM
+gerd,cough,HAS_SYMPTOM
+gerd,chest_pain,HAS_SYMPTOM
+chronic cholestasis,itching,HAS_SYMPTOM
+chronic cholestasis,vomiting,HAS_SYMPTOM
+chronic cholestasis,yellowish_skin,HAS_SYMPTOM
+chronic cholestasis,nausea,HAS_SYMPTOM
+chronic cholestasis,loss_of_appetite,HAS_SYMPTOM
+chronic cholestasis,abdominal_pain,HAS_SYMPTOM
+chronic cholestasis,yellowing_of_eyes,HAS_SYMPTOM
+drug reaction,itching,HAS_SYMPTOM
+drug reaction,skin_rash,HAS_SYMPTOM
+drug reaction,stomach_pain,HAS_SYMPTOM
+drug reaction,burning_micturition,HAS_SYMPTOM
+drug reaction,spotting_ urination,HAS_SYMPTOM
+peptic ulcer diseae,vomiting,HAS_SYMPTOM
+peptic ulcer diseae,indigestion,HAS_SYMPTOM
+peptic ulcer diseae,loss_of_appetite,HAS_SYMPTOM
+peptic ulcer diseae,abdominal_pain,HAS_SYMPTOM
+peptic ulcer diseae,passage_of_gases,HAS_SYMPTOM
+peptic ulcer diseae,internal_itching,HAS_SYMPTOM
+aids,muscle_wasting,HAS_SYMPTOM
+aids,patches_in_throat,HAS_SYMPTOM
+aids,high_fever,HAS_SYMPTOM
+aids,extra_marital_contacts,HAS_SYMPTOM
+diabetes,fatigue,HAS_SYMPTOM
+diabetes,weight_loss,HAS_SYMPTOM
+diabetes,restlessness,HAS_SYMPTOM
+diabetes,lethargy,HAS_SYMPTOM
+diabetes,irregular_sugar_level,HAS_SYMPTOM
+diabetes,blurred_and_distorted_vision,HAS_SYMPTOM
+diabetes,obesity,HAS_SYMPTOM
+diabetes,excessive_hunger,HAS_SYMPTOM
+diabetes,increased_appetite,HAS_SYMPTOM
+diabetes,polyuria,HAS_SYMPTOM
+gastroenteritis,vomiting,HAS_SYMPTOM
+gastroenteritis,sunken_eyes,HAS_SYMPTOM
+gastroenteritis,dehydration,HAS_SYMPTOM
+gastroenteritis,diarrhoea,HAS_SYMPTOM
+bronchial asthma,fatigue,HAS_SYMPTOM
+bronchial asthma,cough,HAS_SYMPTOM
+bronchial asthma,high_fever,HAS_SYMPTOM
+bronchial asthma,breathlessness,HAS_SYMPTOM
+bronchial asthma,family_history,HAS_SYMPTOM
+bronchial asthma,mucoid_sputum,HAS_SYMPTOM
+hypertension,headache,HAS_SYMPTOM
+hypertension,chest_pain,HAS_SYMPTOM
+hypertension,dizziness,HAS_SYMPTOM
+hypertension,loss_of_balance,HAS_SYMPTOM
+hypertension,lack_of_concentration,HAS_SYMPTOM
+migraine,acidity,HAS_SYMPTOM
+migraine,indigestion,HAS_SYMPTOM
+migraine,headache,HAS_SYMPTOM
+migraine,blurred_and_distorted_vision,HAS_SYMPTOM
+migraine,excessive_hunger,HAS_SYMPTOM
+migraine,stiff_neck,HAS_SYMPTOM
+migraine,depression,HAS_SYMPTOM
+migraine,irritability,HAS_SYMPTOM
+migraine,visual_disturbances,HAS_SYMPTOM
+cervical spondylosis,back_pain,HAS_SYMPTOM
+cervical spondylosis,weakness_in_limbs,HAS_SYMPTOM
+cervical spondylosis,neck_pain,HAS_SYMPTOM
+cervical spondylosis,dizziness,HAS_SYMPTOM
+cervical spondylosis,loss_of_balance,HAS_SYMPTOM
+paralysis (brain hemorrhage),vomiting,HAS_SYMPTOM
+paralysis (brain hemorrhage),headache,HAS_SYMPTOM
+paralysis (brain hemorrhage),weakness_of_one_body_side,HAS_SYMPTOM
+paralysis (brain hemorrhage),altered_sensorium,HAS_SYMPTOM
+jaundice,itching,HAS_SYMPTOM
+jaundice,vomiting,HAS_SYMPTOM
+jaundice,fatigue,HAS_SYMPTOM
+jaundice,weight_loss,HAS_SYMPTOM
+jaundice,high_fever,HAS_SYMPTOM
+jaundice,yellowish_skin,HAS_SYMPTOM
+jaundice,dark_urine,HAS_SYMPTOM
+jaundice,abdominal_pain,HAS_SYMPTOM
+malaria,chills,HAS_SYMPTOM
+malaria,vomiting,HAS_SYMPTOM
+malaria,high_fever,HAS_SYMPTOM
+malaria,sweating,HAS_SYMPTOM
+malaria,headache,HAS_SYMPTOM
+malaria,nausea,HAS_SYMPTOM
+malaria,diarrhoea,HAS_SYMPTOM
+malaria,muscle_pain,HAS_SYMPTOM
+chicken pox,itching,HAS_SYMPTOM
+chicken pox,skin_rash,HAS_SYMPTOM
+chicken pox,fatigue,HAS_SYMPTOM
+chicken pox,lethargy,HAS_SYMPTOM
+chicken pox,high_fever,HAS_SYMPTOM
+chicken pox,headache,HAS_SYMPTOM
+chicken pox,loss_of_appetite,HAS_SYMPTOM
+chicken pox,mild_fever,HAS_SYMPTOM
+chicken pox,swelled_lymph_nodes,HAS_SYMPTOM
+chicken pox,malaise,HAS_SYMPTOM
+chicken pox,red_spots_over_body,HAS_SYMPTOM
+dengue,skin_rash,HAS_SYMPTOM
+dengue,chills,HAS_SYMPTOM
+dengue,joint_pain,HAS_SYMPTOM
+dengue,vomiting,HAS_SYMPTOM
+dengue,fatigue,HAS_SYMPTOM
+dengue,high_fever,HAS_SYMPTOM
+dengue,headache,HAS_SYMPTOM
+dengue,nausea,HAS_SYMPTOM
+dengue,loss_of_appetite,HAS_SYMPTOM
+dengue,pain_behind_the_eyes,HAS_SYMPTOM
+dengue,back_pain,HAS_SYMPTOM
+dengue,malaise,HAS_SYMPTOM
+dengue,muscle_pain,HAS_SYMPTOM
+dengue,red_spots_over_body,HAS_SYMPTOM
+typhoid,chills,HAS_SYMPTOM
+typhoid,vomiting,HAS_SYMPTOM
+typhoid,fatigue,HAS_SYMPTOM
+typhoid,high_fever,HAS_SYMPTOM
+typhoid,headache,HAS_SYMPTOM
+typhoid,nausea,HAS_SYMPTOM
+typhoid,constipation,HAS_SYMPTOM
+typhoid,abdominal_pain,HAS_SYMPTOM
+typhoid,diarrhoea,HAS_SYMPTOM
+typhoid,toxic_look_(typhos),HAS_SYMPTOM
+typhoid,belly_pain,HAS_SYMPTOM
+hepatitis a,joint_pain,HAS_SYMPTOM
+hepatitis a,vomiting,HAS_SYMPTOM
+hepatitis a,yellowish_skin,HAS_SYMPTOM
+hepatitis a,dark_urine,HAS_SYMPTOM
+hepatitis a,nausea,HAS_SYMPTOM
+hepatitis a,loss_of_appetite,HAS_SYMPTOM
+hepatitis a,abdominal_pain,HAS_SYMPTOM
+hepatitis a,diarrhoea,HAS_SYMPTOM
+hepatitis a,mild_fever,HAS_SYMPTOM
+hepatitis a,yellowing_of_eyes,HAS_SYMPTOM
+hepatitis a,muscle_pain,HAS_SYMPTOM
+hepatitis b,itching,HAS_SYMPTOM
+hepatitis b,fatigue,HAS_SYMPTOM
+hepatitis b,lethargy,HAS_SYMPTOM
+hepatitis b,yellowish_skin,HAS_SYMPTOM
+hepatitis b,dark_urine,HAS_SYMPTOM
+hepatitis b,loss_of_appetite,HAS_SYMPTOM
+hepatitis b,abdominal_pain,HAS_SYMPTOM
+hepatitis b,yellow_urine,HAS_SYMPTOM
+hepatitis b,yellowing_of_eyes,HAS_SYMPTOM
+hepatitis b,malaise,HAS_SYMPTOM
+hepatitis b,receiving_blood_transfusion,HAS_SYMPTOM
+hepatitis b,receiving_unsterile_injections,HAS_SYMPTOM
+hepatitis c,fatigue,HAS_SYMPTOM
+hepatitis c,yellowish_skin,HAS_SYMPTOM
+hepatitis c,nausea,HAS_SYMPTOM
+hepatitis c,loss_of_appetite,HAS_SYMPTOM
+hepatitis c,yellowing_of_eyes,HAS_SYMPTOM
+hepatitis c,family_history,HAS_SYMPTOM
+hepatitis d,joint_pain,HAS_SYMPTOM
+hepatitis d,vomiting,HAS_SYMPTOM
+hepatitis d,fatigue,HAS_SYMPTOM
+hepatitis d,yellowish_skin,HAS_SYMPTOM
+hepatitis d,dark_urine,HAS_SYMPTOM
+hepatitis d,nausea,HAS_SYMPTOM
+hepatitis d,loss_of_appetite,HAS_SYMPTOM
+hepatitis d,abdominal_pain,HAS_SYMPTOM
+hepatitis d,yellowing_of_eyes,HAS_SYMPTOM
+hepatitis e,joint_pain,HAS_SYMPTOM
+hepatitis e,vomiting,HAS_SYMPTOM
+hepatitis e,fatigue,HAS_SYMPTOM
+hepatitis e,high_fever,HAS_SYMPTOM
+hepatitis e,yellowish_skin,HAS_SYMPTOM
+hepatitis e,dark_urine,HAS_SYMPTOM
+hepatitis e,nausea,HAS_SYMPTOM
+hepatitis e,loss_of_appetite,HAS_SYMPTOM
+hepatitis e,abdominal_pain,HAS_SYMPTOM
+hepatitis e,yellowing_of_eyes,HAS_SYMPTOM
+hepatitis e,acute_liver_failure,HAS_SYMPTOM
+hepatitis e,coma,HAS_SYMPTOM
+hepatitis e,stomach_bleeding,HAS_SYMPTOM
+alcoholic hepatitis,vomiting,HAS_SYMPTOM
+alcoholic hepatitis,yellowish_skin,HAS_SYMPTOM
+alcoholic hepatitis,abdominal_pain,HAS_SYMPTOM
+alcoholic hepatitis,swelling_of_stomach,HAS_SYMPTOM
+alcoholic hepatitis,distention_of_abdomen,HAS_SYMPTOM
+alcoholic hepatitis,history_of_alcohol_consumption,HAS_SYMPTOM
+alcoholic hepatitis,fluid_overload,HAS_SYMPTOM
+tuberculosis,chills,HAS_SYMPTOM
+tuberculosis,vomiting,HAS_SYMPTOM
+tuberculosis,fatigue,HAS_SYMPTOM
+tuberculosis,weight_loss,HAS_SYMPTOM
+tuberculosis,cough,HAS_SYMPTOM
+tuberculosis,high_fever,HAS_SYMPTOM
+tuberculosis,breathlessness,HAS_SYMPTOM
+tuberculosis,sweating,HAS_SYMPTOM
+tuberculosis,loss_of_appetite,HAS_SYMPTOM
+tuberculosis,mild_fever,HAS_SYMPTOM
+tuberculosis,yellowing_of_eyes,HAS_SYMPTOM
+tuberculosis,swelled_lymph_nodes,HAS_SYMPTOM
+tuberculosis,malaise,HAS_SYMPTOM
+tuberculosis,phlegm,HAS_SYMPTOM
+tuberculosis,chest_pain,HAS_SYMPTOM
+tuberculosis,blood_in_sputum,HAS_SYMPTOM
+common cold,continuous_sneezing,HAS_SYMPTOM
+common cold,chills,HAS_SYMPTOM
+common cold,fatigue,HAS_SYMPTOM
+common cold,cough,HAS_SYMPTOM
+common cold,high_fever,HAS_SYMPTOM
+common cold,headache,HAS_SYMPTOM
+common cold,swelled_lymph_nodes,HAS_SYMPTOM
+common cold,malaise,HAS_SYMPTOM
+common cold,phlegm,HAS_SYMPTOM
+common cold,throat_irritation,HAS_SYMPTOM
+common cold,redness_of_eyes,HAS_SYMPTOM
+common cold,sinus_pressure,HAS_SYMPTOM
+common cold,runny_nose,HAS_SYMPTOM
+common cold,congestion,HAS_SYMPTOM
+common cold,chest_pain,HAS_SYMPTOM
+common cold,loss_of_smell,HAS_SYMPTOM
+common cold,muscle_pain,HAS_SYMPTOM
+pneumonia,chills,HAS_SYMPTOM
+pneumonia,fatigue,HAS_SYMPTOM
+pneumonia,cough,HAS_SYMPTOM
+pneumonia,high_fever,HAS_SYMPTOM
+pneumonia,breathlessness,HAS_SYMPTOM
+pneumonia,sweating,HAS_SYMPTOM
+pneumonia,malaise,HAS_SYMPTOM
+pneumonia,phlegm,HAS_SYMPTOM
+pneumonia,chest_pain,HAS_SYMPTOM
+pneumonia,fast_heart_rate,HAS_SYMPTOM
+pneumonia,rusty_sputum,HAS_SYMPTOM
+dimorphic hemmorhoids(piles),constipation,HAS_SYMPTOM
+dimorphic hemmorhoids(piles),pain_during_bowel_movements,HAS_SYMPTOM
+dimorphic hemmorhoids(piles),pain_in_anal_region,HAS_SYMPTOM
+dimorphic hemmorhoids(piles),bloody_stool,HAS_SYMPTOM
+dimorphic hemmorhoids(piles),irritation_in_anus,HAS_SYMPTOM
+heart attack,vomiting,HAS_SYMPTOM
+heart attack,breathlessness,HAS_SYMPTOM
+heart attack,sweating,HAS_SYMPTOM
+heart attack,chest_pain,HAS_SYMPTOM
+varicose veins,fatigue,HAS_SYMPTOM
+varicose veins,cramps,HAS_SYMPTOM
+varicose veins,bruising,HAS_SYMPTOM
+varicose veins,obesity,HAS_SYMPTOM
+varicose veins,swollen_legs,HAS_SYMPTOM
+varicose veins,swollen_blood_vessels,HAS_SYMPTOM
+varicose veins,prominent_veins_on_calf,HAS_SYMPTOM
+hypothyroidism,fatigue,HAS_SYMPTOM
+hypothyroidism,weight_gain,HAS_SYMPTOM
+hypothyroidism,cold_hands_and_feets,HAS_SYMPTOM
+hypothyroidism,mood_swings,HAS_SYMPTOM
+hypothyroidism,lethargy,HAS_SYMPTOM
+hypothyroidism,dizziness,HAS_SYMPTOM
+hypothyroidism,puffy_face_and_eyes,HAS_SYMPTOM
+hypothyroidism,enlarged_thyroid,HAS_SYMPTOM
+hypothyroidism,brittle_nails,HAS_SYMPTOM
+hypothyroidism,swollen_extremeties,HAS_SYMPTOM
+hypothyroidism,depression,HAS_SYMPTOM
+hypothyroidism,irritability,HAS_SYMPTOM
+hypothyroidism,abnormal_menstruation,HAS_SYMPTOM
+hyperthyroidism,fatigue,HAS_SYMPTOM
+hyperthyroidism,mood_swings,HAS_SYMPTOM
+hyperthyroidism,weight_loss,HAS_SYMPTOM
+hyperthyroidism,restlessness,HAS_SYMPTOM
+hyperthyroidism,sweating,HAS_SYMPTOM
+hyperthyroidism,diarrhoea,HAS_SYMPTOM
+hyperthyroidism,fast_heart_rate,HAS_SYMPTOM
+hyperthyroidism,excessive_hunger,HAS_SYMPTOM
+hyperthyroidism,muscle_weakness,HAS_SYMPTOM
+hyperthyroidism,irritability,HAS_SYMPTOM
+hyperthyroidism,abnormal_menstruation,HAS_SYMPTOM
+hypoglycemia,vomiting,HAS_SYMPTOM
+hypoglycemia,fatigue,HAS_SYMPTOM
+hypoglycemia,anxiety,HAS_SYMPTOM
+hypoglycemia,sweating,HAS_SYMPTOM
+hypoglycemia,headache,HAS_SYMPTOM
+hypoglycemia,nausea,HAS_SYMPTOM
+hypoglycemia,blurred_and_distorted_vision,HAS_SYMPTOM
+hypoglycemia,excessive_hunger,HAS_SYMPTOM
+hypoglycemia,drying_and_tingling_lips,HAS_SYMPTOM
+hypoglycemia,slurred_speech,HAS_SYMPTOM
+hypoglycemia,irritability,HAS_SYMPTOM
+hypoglycemia,palpitations,HAS_SYMPTOM
+osteoarthristis,joint_pain,HAS_SYMPTOM
+osteoarthristis,neck_pain,HAS_SYMPTOM
+osteoarthristis,knee_pain,HAS_SYMPTOM
+osteoarthristis,hip_joint_pain,HAS_SYMPTOM
+osteoarthristis,swelling_joints,HAS_SYMPTOM
+osteoarthristis,painful_walking,HAS_SYMPTOM
+arthritis,muscle_weakness,HAS_SYMPTOM
+arthritis,stiff_neck,HAS_SYMPTOM
+arthritis,swelling_joints,HAS_SYMPTOM
+arthritis,movement_stiffness,HAS_SYMPTOM
+arthritis,painful_walking,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,vomiting,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,headache,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,nausea,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,spinning_movements,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,loss_of_balance,HAS_SYMPTOM
+(vertigo) paroymsal  positional vertigo,unsteadiness,HAS_SYMPTOM
+acne,skin_rash,HAS_SYMPTOM
+acne,pus_filled_pimples,HAS_SYMPTOM
+acne,blackheads,HAS_SYMPTOM
+acne,scurring,HAS_SYMPTOM
+urinary tract infection,burning_micturition,HAS_SYMPTOM
+urinary tract infection,bladder_discomfort,HAS_SYMPTOM
+urinary tract infection,foul_smell_of urine,HAS_SYMPTOM
+urinary tract infection,continuous_feel_of_urine,HAS_SYMPTOM
+psoriasis,skin_rash,HAS_SYMPTOM
+psoriasis,joint_pain,HAS_SYMPTOM
+psoriasis,skin_peeling,HAS_SYMPTOM
+psoriasis,silver_like_dusting,HAS_SYMPTOM
+psoriasis,small_dents_in_nails,HAS_SYMPTOM
+psoriasis,inflammatory_nails,HAS_SYMPTOM
+impetigo,skin_rash,HAS_SYMPTOM
+impetigo,high_fever,HAS_SYMPTOM
+impetigo,blister,HAS_SYMPTOM
+impetigo,red_sore_around_nose,HAS_SYMPTOM
+impetigo,yellow_crust_ooze,HAS_SYMPTOM

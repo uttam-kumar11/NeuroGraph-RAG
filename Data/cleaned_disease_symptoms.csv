@@ -1,0 +1,322 @@
+Disease,Symptom
+fungal infection,itching
+fungal infection,skin_rash
+allergy,continuous_sneezing
+allergy,shivering
+gerd,stomach_pain
+gerd,acidity
+chronic cholestasis,itching
+chronic cholestasis,vomiting
+drug reaction,itching
+drug reaction,skin_rash
+peptic ulcer diseae,vomiting
+peptic ulcer diseae,indigestion
+aids,muscle_wasting
+aids,patches_in_throat
+diabetes,fatigue
+diabetes,weight_loss
+gastroenteritis,vomiting
+gastroenteritis,sunken_eyes
+bronchial asthma,fatigue
+bronchial asthma,cough
+hypertension,headache
+hypertension,chest_pain
+migraine,acidity
+migraine,indigestion
+cervical spondylosis,back_pain
+cervical spondylosis,weakness_in_limbs
+paralysis (brain hemorrhage),vomiting
+paralysis (brain hemorrhage),headache
+jaundice,itching
+jaundice,vomiting
+malaria,chills
+malaria,vomiting
+chicken pox,itching
+chicken pox,skin_rash
+dengue,skin_rash
+dengue,chills
+typhoid,chills
+hepatitis a,joint_pain
+hepatitis a,vomiting
+hepatitis b,itching
+hepatitis b,fatigue
+hepatitis c,fatigue
+hepatitis c,yellowish_skin
+hepatitis d,joint_pain
+hepatitis d,vomiting
+hepatitis e,joint_pain
+hepatitis e,vomiting
+alcoholic hepatitis,vomiting
+alcoholic hepatitis,yellowish_skin
+tuberculosis,chills
+tuberculosis,vomiting
+common cold,continuous_sneezing
+common cold,chills
+pneumonia,chills
+pneumonia,fatigue
+dimorphic hemmorhoids(piles),constipation
+dimorphic hemmorhoids(piles),pain_during_bowel_movements
+heart attack,vomiting
+heart attack,breathlessness
+varicose veins,fatigue
+varicose veins,cramps
+hypothyroidism,fatigue
+hypothyroidism,weight_gain
+hyperthyroidism,fatigue
+hyperthyroidism,mood_swings
+hypoglycemia,vomiting
+hypoglycemia,fatigue
+osteoarthristis,joint_pain
+osteoarthristis,neck_pain
+arthritis,muscle_weakness
+arthritis,stiff_neck
+(vertigo) paroymsal  positional vertigo,vomiting
+(vertigo) paroymsal  positional vertigo,headache
+acne,skin_rash
+acne,pus_filled_pimples
+urinary tract infection,burning_micturition
+urinary tract infection,bladder_discomfort
+psoriasis,skin_rash
+psoriasis,joint_pain
+impetigo,skin_rash
+impetigo,high_fever
+fungal infection,nodal_skin_eruptions
+allergy,chills
+gerd,ulcers_on_tongue
+chronic cholestasis,yellowish_skin
+drug reaction,stomach_pain
+peptic ulcer diseae,loss_of_appetite
+aids,high_fever
+diabetes,restlessness
+gastroenteritis,dehydration
+bronchial asthma,high_fever
+hypertension,dizziness
+migraine,headache
+cervical spondylosis,neck_pain
+paralysis (brain hemorrhage),weakness_of_one_body_side
+jaundice,fatigue
+malaria,high_fever
+chicken pox,fatigue
+dengue,joint_pain
+typhoid,vomiting
+typhoid,fatigue
+hepatitis a,yellowish_skin
+hepatitis b,lethargy
+hepatitis c,nausea
+hepatitis d,fatigue
+hepatitis e,fatigue
+alcoholic hepatitis,abdominal_pain
+tuberculosis,fatigue
+common cold,fatigue
+pneumonia,cough
+dimorphic hemmorhoids(piles),pain_in_anal_region
+heart attack,sweating
+varicose veins,bruising
+hypothyroidism,cold_hands_and_feets
+hyperthyroidism,weight_loss
+hypoglycemia,anxiety
+osteoarthristis,knee_pain
+arthritis,swelling_joints
+(vertigo) paroymsal  positional vertigo,nausea
+acne,blackheads
+urinary tract infection,foul_smell_of urine
+psoriasis,skin_peeling
+impetigo,blister
+fungal infection,dischromic _patches
+allergy,watering_from_eyes
+gerd,vomiting
+chronic cholestasis,nausea
+drug reaction,burning_micturition
+peptic ulcer diseae,abdominal_pain
+aids,extra_marital_contacts
+diabetes,lethargy
+gastroenteritis,diarrhoea
+bronchial asthma,breathlessness
+hypertension,loss_of_balance
+migraine,blurred_and_distorted_vision
+cervical spondylosis,dizziness
+paralysis (brain hemorrhage),altered_sensorium
+jaundice,weight_loss
+malaria,sweating
+chicken pox,lethargy
+dengue,vomiting
+typhoid,high_fever
+hepatitis a,dark_urine
+hepatitis b,yellowish_skin
+hepatitis c,loss_of_appetite
+hepatitis d,yellowish_skin
+hepatitis e,high_fever
+alcoholic hepatitis,swelling_of_stomach
+tuberculosis,weight_loss
+common cold,cough
+pneumonia,high_fever
+dimorphic hemmorhoids(piles),bloody_stool
+heart attack,chest_pain
+varicose veins,obesity
+hypothyroidism,mood_swings
+hyperthyroidism,restlessness
+hypoglycemia,sweating
+osteoarthristis,hip_joint_pain
+arthritis,movement_stiffness
+(vertigo) paroymsal  positional vertigo,spinning_movements
+acne,scurring
+urinary tract infection,continuous_feel_of_urine
+psoriasis,silver_like_dusting
+impetigo,red_sore_around_nose
+gerd,cough
+chronic cholestasis,loss_of_appetite
+drug reaction,spotting_ urination
+peptic ulcer diseae,passage_of_gases
+diabetes,irregular_sugar_level
+bronchial asthma,family_history
+hypertension,lack_of_concentration
+migraine,excessive_hunger
+cervical spondylosis,loss_of_balance
+jaundice,high_fever
+malaria,headache
+chicken pox,high_fever
+dengue,fatigue
+typhoid,headache
+hepatitis a,nausea
+hepatitis b,dark_urine
+hepatitis c,yellowing_of_eyes
+hepatitis d,dark_urine
+hepatitis e,yellowish_skin
+alcoholic hepatitis,distention_of_abdomen
+tuberculosis,cough
+common cold,high_fever
+pneumonia,breathlessness
+dimorphic hemmorhoids(piles),irritation_in_anus
+varicose veins,swollen_legs
+hypothyroidism,lethargy
+hyperthyroidism,sweating
+hypoglycemia,headache
+osteoarthristis,swelling_joints
+arthritis,painful_walking
+(vertigo) paroymsal  positional vertigo,loss_of_balance
+psoriasis,small_dents_in_nails
+impetigo,yellow_crust_ooze
+gerd,chest_pain
+chronic cholestasis,abdominal_pain
+peptic ulcer diseae,internal_itching
+diabetes,blurred_and_distorted_vision
+bronchial asthma,mucoid_sputum
+migraine,stiff_neck
+jaundice,yellowish_skin
+malaria,nausea
+chicken pox,headache
+dengue,high_fever
+typhoid,nausea
+hepatitis a,loss_of_appetite
+hepatitis b,loss_of_appetite
+hepatitis c,family_history
+hepatitis d,nausea
+hepatitis e,dark_urine
+alcoholic hepatitis,history_of_alcohol_consumption
+tuberculosis,high_fever
+common cold,headache
+pneumonia,sweating
+varicose veins,swollen_blood_vessels
+hypothyroidism,dizziness
+hyperthyroidism,diarrhoea
+hypoglycemia,nausea
+osteoarthristis,painful_walking
+(vertigo) paroymsal  positional vertigo,unsteadiness
+psoriasis,inflammatory_nails
+chronic cholestasis,yellowing_of_eyes
+diabetes,obesity
+migraine,depression
+jaundice,dark_urine
+malaria,diarrhoea
+chicken pox,loss_of_appetite
+dengue,headache
+typhoid,constipation
+hepatitis a,abdominal_pain
+hepatitis b,abdominal_pain
+hepatitis d,loss_of_appetite
+hepatitis e,nausea
+alcoholic hepatitis,fluid_overload
+tuberculosis,breathlessness
+common cold,swelled_lymph_nodes
+pneumonia,malaise
+varicose veins,prominent_veins_on_calf
+hypothyroidism,puffy_face_and_eyes
+hyperthyroidism,fast_heart_rate
+hypoglycemia,blurred_and_distorted_vision
+diabetes,excessive_hunger
+migraine,irritability
+jaundice,abdominal_pain
+malaria,muscle_pain
+chicken pox,mild_fever
+dengue,nausea
+typhoid,abdominal_pain
+hepatitis a,diarrhoea
+hepatitis b,yellow_urine
+hepatitis d,abdominal_pain
+hepatitis e,loss_of_appetite
+tuberculosis,sweating
+common cold,malaise
+pneumonia,phlegm
+hypothyroidism,enlarged_thyroid
+hyperthyroidism,excessive_hunger
+hypoglycemia,excessive_hunger
+diabetes,increased_appetite
+migraine,visual_disturbances
+chicken pox,swelled_lymph_nodes
+dengue,loss_of_appetite
+typhoid,diarrhoea
+hepatitis a,mild_fever
+hepatitis b,yellowing_of_eyes
+hepatitis d,yellowing_of_eyes
+hepatitis e,abdominal_pain
+tuberculosis,loss_of_appetite
+common cold,phlegm
+pneumonia,chest_pain
+hypothyroidism,brittle_nails
+hyperthyroidism,muscle_weakness
+hypoglycemia,drying_and_tingling_lips
+diabetes,polyuria
+chicken pox,malaise
+dengue,pain_behind_the_eyes
+typhoid,toxic_look_(typhos)
+hepatitis a,yellowing_of_eyes
+hepatitis b,malaise
+hepatitis e,yellowing_of_eyes
+tuberculosis,mild_fever
+common cold,throat_irritation
+pneumonia,fast_heart_rate
+hypothyroidism,swollen_extremeties
+hyperthyroidism,irritability
+hypoglycemia,slurred_speech
+chicken pox,red_spots_over_body
+dengue,back_pain
+typhoid,belly_pain
+hepatitis a,muscle_pain
+hepatitis b,receiving_blood_transfusion
+hepatitis e,acute_liver_failure
+tuberculosis,yellowing_of_eyes
+common cold,redness_of_eyes
+pneumonia,rusty_sputum
+hypothyroidism,depression
+hyperthyroidism,abnormal_menstruation
+hypoglycemia,irritability
+dengue,malaise
+hepatitis b,receiving_unsterile_injections
+hepatitis e,coma
+tuberculosis,swelled_lymph_nodes
+common cold,sinus_pressure
+hypothyroidism,irritability
+hypoglycemia,palpitations
+dengue,muscle_pain
+hepatitis e,stomach_bleeding
+tuberculosis,malaise
+common cold,runny_nose
+hypothyroidism,abnormal_menstruation
+dengue,red_spots_over_body
+tuberculosis,phlegm
+common cold,congestion
+tuberculosis,chest_pain
+common cold,chest_pain
+tuberculosis,blood_in_sputum
+common cold,loss_of_smell
+common cold,muscle_pain
