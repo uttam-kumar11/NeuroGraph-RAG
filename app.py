@@ -404,10 +404,10 @@ with col_output:
                             # DYNAMIC LANGUAGE MIRRORING RULE
                             msgs = [{'role': 'system', 'content': f"You are a professional medical AI. Context: Disease={st.session_state.csv_context_log['Disease']}, Precautions={st.session_state.csv_context_log['Prec']}. Answer strictly based on this context.\n\nCRITICAL LANGUAGE RULE:\n1. Mirror the user's language.\n2. If the user asks in pure English, reply STRICTLY in professional English.\n3. If the user asks in Hinglish (Hindi written in English alphabet), reply in natural Hinglish.\n4. NEVER use the Devanagari script (हिंदी). Always use the English alphabet."}]
                             msgs.extend([{'role': m['role'], 'content': m['content']} for m in st.session_state.chat_history])
-                           try:
-                               reply = ollama.chat(model='llama3.2', messages=msgs)['message']['content']
-                           except Exception:
-                               reply = "Interactive follow-up chat requires the local Ollama (Llama 3.2) engine. In Cloud Mode, NeuroGraph RAG provides the verified Knowledge Graph + ChromaDB diagnostic summary above."
+                        try:
+                            reply = ollama.chat(model='llama3.2', messages=msgs)['message']['content']
+                        except Exception:
+                            reply = "Interactive follow-up chat requires the local Ollama (Llama 3.2) engine. In Cloud Mode, NeuroGraph RAG provides the verified Knowledge Graph + ChromaDB diagnostic summary above."
                             st.markdown(reply)
                             st.session_state.chat_history.append({"role": "assistant", "content": reply})
                         except: st.error("Consultation connection failed.")
