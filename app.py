@@ -281,8 +281,7 @@ with col_output:
                     # Database Paths
                     db_path = r"D:\NeuroGraph_Project\Chroma_DB"
                     data_path = r"D:\NeuroGraph_Project\Data\cleaned_disease_symptoms.csv"
-                    
-                   client = chromadb.PersistentClient(path="./Chroma_DB")
+                    client = chromadb.PersistentClient(path="./Chroma_DB")
                     collection = client.get_collection(name="symptom_collection")
                     df_symp = pd.read_csv(data_path)
                     
@@ -374,7 +373,7 @@ with col_output:
             st.markdown('<div class="chat-container">', unsafe_allow_html=True)
             st.markdown("### 📋 Diagnostic Summary")
             if st.session_state.get("initial_report"):
-    st.markdown(st.session_state.initial_report)
+                st.markdown(st.session_state.initial_report)
             st.divider()
             
             st.markdown("### 💬 AI Consultation")
