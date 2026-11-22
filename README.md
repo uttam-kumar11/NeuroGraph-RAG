@@ -1,4 +1,6 @@
 # NeuroGraph RAG: Hybrid Graph-Vector Retrieval for Medical Diagnostics
+### 🚀 Live Demo
+**Deployed Application:** [Open NeuroGraph RAG](https://neurograph-rag-uttam.streamlit.app)
 
 ## 📌 About the Project
 
