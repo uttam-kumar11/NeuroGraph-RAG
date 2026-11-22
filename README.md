@@ -37,13 +37,15 @@ I tested the system on **25 real-world clinical test cases** using my evaluation
 
 The app has a login page so that only authorised people can use the diagnostic engine. Evaluators can use any one of these accounts:
 
-**Admin**
-- Username: `admin`
-- Password: `1234`
+Administrator ID 1:
+admin1 
+Security Key:
+pass123
+Administrator ID 2:
+admin2
+Security Key:
+pass456
 
-**User / Doctor**
-- Username: `user`
-- Password: `1234`
 
 > These are demo credentials only, made for testing and evaluation.
 
