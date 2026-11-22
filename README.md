@@ -39,10 +39,14 @@ The app has a login page so that only authorised people can use the diagnostic e
 
 ## Administrator ID 1:
 admin1 
+
 Security Key:
 pass123
+
+
 ## Administrator ID 2:
 admin2
+
 Security Key:
 pass456
 
